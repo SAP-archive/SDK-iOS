@@ -1,6 +1,6 @@
 {
   "name": "RecastAI",
-  "version": "3.5.0",
+  "version": "4.0.0",
   "summary": "Recast.AI Official iOS SDK in Swift",
   "description": "Recast.AI Official iOS SDK in Swift. Allows you to make request to your bots.",
   "homepage": "https://github.com/RecastAI",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/RecastAI/SDK-ios.git",
-    "tag": "3.5.0"
+    "tag": "4.0.0"
   },
   "social_media_url": "https://twitter.com/recastai",
   "platforms": {

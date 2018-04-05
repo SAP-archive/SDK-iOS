@@ -83,10 +83,8 @@ public class Response : Mappable, CustomStringConvertible
      
      */
     public func intent() -> Intent? {
-        if ((intents?.count) != nil) {
-            return intents?[0]
-        }
-        return (nil)
+        guard let intent = intents?.first else { return nil }
+        return intent
     }
     
     //************ Methods - ACT ************

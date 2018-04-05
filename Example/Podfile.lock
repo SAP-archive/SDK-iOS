@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (4.0.0)
   - ObjectMapper (2.2.2)
-  - RecastAI (3.5.0):
+  - RecastAI (4.0.0):
     - Alamofire
     - ObjectMapper
 
@@ -10,15 +10,20 @@ DEPENDENCIES:
   - ObjectMapper
   - RecastAI (from `../`)
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - ObjectMapper
+
 EXTERNAL SOURCES:
   RecastAI:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
   Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
   ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
-  RecastAI: 48a5128b84c6fc85c8710aba684909e6142bb7d4
+  RecastAI: 7f0bb32e28463ca1cc738fa8581c4f1a9fc4337b
 
 PODFILE CHECKSUM: 7ca588bfbf22e79ad4b4629f3721756f02b39b48
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.5.0
