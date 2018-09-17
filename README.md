@@ -9,7 +9,7 @@
 
 Recast.AI official SDK in Swift.
 
-## Synospis
+## Synopsis
 
  This pod is a Swift wrapper around the [Recast.AI](https://recast.ai) API, and allows you to: 
  * [Analyse your text](https://github.com/RecastAI/SDK-iOS/wiki/Analyse-text)
