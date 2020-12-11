@@ -33,7 +33,7 @@ The SAP Conversational AI team
 
 ---
 
-## Synospis
+## Synopsis
 
  This pod is a Swift wrapper around the [SAP Conversational AI](https://cai.tools.sap) API, and allows you to: 
  * [Analyse your text](https://github.com/SAPConversationalAI/SDK-iOS/wiki/Analyse-text)
